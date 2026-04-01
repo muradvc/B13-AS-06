@@ -6,4 +6,4 @@ The application features a dynamic product and cart toggling system, where users
 
 To enhance user interaction, toast notifications are integrated to provide real-time feedback for actions like adding to cart, removing items, and completing checkout. The UI is designed to be clean, user-friendly, and fully responsive across all devices.
 
-Overall, this project demonstrates practical implementation of React state management, component-based architecture, and modern frontend development practices.
+Overall, this project demonstrates practical implementation of React state management, component-based architecture.
